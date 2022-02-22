@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: Eindräge
+title:  "Willkommen zu meinem Programmier und Zauber Blog"
 date:   2022-02-22 21:17:27 +0100
 categories: jekyll update
 ---
