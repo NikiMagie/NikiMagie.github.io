@@ -21,13 +21,11 @@
 title: Niklas Review/Tipps Blog
 email: info@real-magic.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Das ist mein Blog. Hier dreht sich alles rund um die Themen Programmieren und Zaubern. Ich richte aber den Fokus auf die Programmierung. 
+  So werden Tipps, DIY's und Hilfen sowie Tutorials folgen.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "real-magic.de/blog" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  NikiMagie
 
 # Build settings
 theme: minima
